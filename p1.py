@@ -1,1 +1,1 @@
-print("artificial intelligence and machine learning-gay")
+print("artificial intelligence and machine learning")
