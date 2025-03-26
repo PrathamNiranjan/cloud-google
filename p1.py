@@ -1,1 +1,1 @@
-print("hello world")
+print("artificial intelligence and machine learning")
